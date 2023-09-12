@@ -47,7 +47,7 @@ This repository is designed to help you, 2nd-year students, get started with Git
 GitHub is a web-based platform for version control, collaboration, and code sharing. It allows developers to work on projects together, track changes, and manage code efficiently. GitHub is widely used in the software development industry for both open-source and private projects.
 
 ## Getting Started
-
+shiwansh 
 ### Creating a GitHub Account
 
 If you don't already have a GitHub account, you can create one for free. Visit [GitHub's Signup Page](https://github.com/join) and follow the instructions.
@@ -62,8 +62,8 @@ After installing Git, you'll need to configure it with your GitHub credentials. 
 
 
 ```bash
-git config --global user.name "Your Name"
-git config --global user.email "youremail@example.com"
+git config --global user.name "Gantavya Srivastava"
+git config --global user.email "lakshay2912@gmail.com"
 ```
     
 
